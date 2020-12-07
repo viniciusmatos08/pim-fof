@@ -15,6 +15,7 @@ namespace PimFof
         public Form1()
         {
             InitializeComponent();
+			SIM
         }
     }
 }
